@@ -1,0 +1,6 @@
+".\Objects\STARTUP.obj",
+".\Objects\main.obj",
+".\Objects\timer.obj",
+".\Objects\uart.obj" 
+TO ".\Objects\Serial" 
+PRINT(".\Listings\Serial.m51") RAMSIZE(256) 
