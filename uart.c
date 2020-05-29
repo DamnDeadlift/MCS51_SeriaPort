@@ -1,6 +1,7 @@
 /*
- * @Author: 郑健
+ * @Author: Johnny Zheng
  */ 
+
 #include "uart.h"
 #include "STC89xx.h"
 
